@@ -1,0 +1,25 @@
+﻿  ConsoleApplication1.cpp
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(17): warning C4326: “main”的返回类型应为“int”而非“void”
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(59): warning C4267: “+=”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(70): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(118): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(119): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(148): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\users\administrator\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(149): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  ConsoleApplication1.vcxproj -> C:\Users\Administrator\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
